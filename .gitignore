@@ -1,0 +1,9 @@
+# Directories
+
+Images/
+Lectures/*/Exercise/
+Text Books/
+Lectures/*/*/.ipynb_checkpoints/
+
+# files
+*-checkpoint.ipynb
